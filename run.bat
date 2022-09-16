@@ -1,1 +1,1 @@
-robot --timestampoutputs --outputdir ../Robot/Reports Tests.robot
+robot --timestampoutputs --outputdir "Reports" Tests.robot
